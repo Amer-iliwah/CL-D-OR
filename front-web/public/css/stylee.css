@@ -529,5 +529,8 @@ video.featurette-image {
     font-weight: 900;
     font-style: normal;
   }
-
+  .btn-whatsapp{
+    background-color: green;
+    color: white;
+  }
   
