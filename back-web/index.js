@@ -15,7 +15,7 @@ app.use(express.static("C:/Users/HP/Desktop/areen shop/front-web/public"));
 
 app.use(express.urlencoded({ extended: true }));
 
-app.get('/index', (req, res) => {
+app.get('/', (req, res) => {
   res.render('index');
 });
 
