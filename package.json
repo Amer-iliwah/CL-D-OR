@@ -1,0 +1,19 @@
+{
+  "name": "areen-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abdullah",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^148.0.0"
+  }
+}
